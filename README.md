@@ -3,23 +3,16 @@
 <br>
 
 ## 👨‍💻 Currently working on :
-<div style="display: inline-block">
-  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  Flutter App
-</div>
-<div style="display: inline-block">
-  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  PHP API
-</div>
-<div style="display: inline-block">
-  - <img align="center" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  SQL Database
+<div style="display: inline-block">        
+  - <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+  Next.js
 </div>
 
 <br>
 
 ## 🤓 I have some experience in :
 <div style="display: inline-block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
